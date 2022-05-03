@@ -12,11 +12,11 @@ Esse projeto foi feito no Bootcamp Carrefour Web Developer pela [DIO](https://gi
 
 - Desktop
 
-![enter image description here]()
+![preview-desktop](https://github.com/andlz21/Netflix-DIO-CarrefourBootcamp/blob/main/img/Anima%C3%A7%C3%A3o-desktop.gif?raw=true)
 
 
 
 
 - Mobile
 
-![enter image description here]()
+![preview-mobile](https://github.com/andlz21/Netflix-DIO-CarrefourBootcamp/blob/main/img/Anima%C3%A7%C3%A3o-mobile.gif?raw=true)
